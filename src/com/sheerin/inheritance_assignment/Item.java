@@ -1,4 +1,4 @@
-package com.sheerin.assignment3;
+package com.sheerin.inheritance_assignment;
 
 //Part A – Inheritance (is-a relationship)
 
