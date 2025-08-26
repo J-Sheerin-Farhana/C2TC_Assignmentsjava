@@ -1,4 +1,4 @@
-package userdefinedexception_assignment;
+package com.sheerin.userdefinedexception_assignment;
 
 //Custom Exception: Thrown when deposit/withdraw amount is invalid
 class InvalidAmountException extends Exception {

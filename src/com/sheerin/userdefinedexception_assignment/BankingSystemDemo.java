@@ -1,4 +1,4 @@
-package userdefinedexception_assignment;
+package com.sheerin.userdefinedexception_assignment;
 
 public class BankingSystemDemo {
     public static void main(String[] args) {

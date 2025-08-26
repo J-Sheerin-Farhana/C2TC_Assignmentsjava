@@ -1,4 +1,4 @@
-package userdefinedexception_assignment;
+package com.sheerin.userdefinedexception_assignment;
 
 //BankAccount class representing a simple banking system
 class BankAccount {
